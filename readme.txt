@@ -9,17 +9,3 @@ fkdjfdlkfhw;FJWEFLJKF
 FJKLHFJKLDFHDSLKFJDSHFLKSDHFSF
 FJKDLFHKDJFHFJDSHFKJSD
 
-gjdhdsfghldsfglkdfgkdsghkdsgdfg
-dgldgkdhghkghdfklghdfgldfsghdfghjfg
-gdfngdfkgjdfghkljghfghdfghkdfgjkdsfg
-gdfkgjhgkjdsfghkdjgdsfgjk
-fjewkfhewjfkewf
-flkwefwlk;fhwejwef
-fjhwefjkwefhewkfjewhfwefwef
-
-
-fjkadslfhdfjdshgkdg
-fkadsjfhdjgkdshg
-fldskghdgklhdfgdfkg
-
-12 3 4 5 6 78 9 
