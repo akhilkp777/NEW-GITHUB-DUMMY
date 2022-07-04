@@ -1,0 +1,7 @@
+
+1.ws_moveit is created in NUC2
+2.Inside this the moveit source installation is done.
+3.goto this workspace and launch moveit setup assistant. if the setup assistant is launching properly then all the required files are loaded properly
+4. Now replace the ompl_planning.yaml of your moveit pkg(your_moveit_pkg/config/ompl_planning.yaml) with the new ompl_planning.yaml file 
+5.do catkin_make
+6. run demo launch and check PRRT is showing in rviz
